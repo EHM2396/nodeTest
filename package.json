@@ -1,0 +1,33 @@
+{
+  "name": "repaso-node-js",
+  "version": "1.0.0",
+  "description": "Repaso de nodeJs conceptos basicos y avanzados, recordar y fortalecer en lo que trabajo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EHM2396/nodeTest.git"
+  },
+  "keywords": [
+    "nodejs",
+    "node",
+    "javascript"
+  ],
+  "author": "Erick Herrera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EHM2396/nodeTest/issues"
+  },
+  "homepage": "https://github.com/EHM2396/nodeTest#readme",
+  "dependencies": {
+    "picocolors": "1.1.1"
+  },
+  "devDependencies": {
+    "standard": "^17.1.2"
+  },
+  "eslintConfig": {
+    "extends": "standard"
+  }
+}
